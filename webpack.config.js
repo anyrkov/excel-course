@@ -10,7 +10,7 @@ const isProd = (process.env.NODE_ENV === 'production');
 const isDev = !isProd;
 
 
-// console.log(process.env.NODE_ENV);
+console.log(process.env.NODE_ENV);
 // console.log('isDev ', isDev);
 // console.log('isProd ', isProd);
 
